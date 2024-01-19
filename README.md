@@ -2,6 +2,8 @@
 
 This is [Shuttle](https://www.shuttle.rs/)'s collection of code challenges for learning backend development with Rust. The name is derived from [rustlings](https://github.com/rust-lang/rustlings), which is also a great resource for learning Rust basics.
 
+We've created a channel on [our Discord server](https://discord.gg/shuttle) where you can discuss challenges, provide feedback and talk to other problem-solvers.
+
 ## Why did we create this repo?
 
 After the success of our [Christmas Code Hunt](https://shuttle.rs/cch) in December 2023, we realized the positive impact that practical coding challenges could have on learning Rust. This repo was created to continue that momentum, offering a collection of real-world problems for developers to solve and learn from all year round. It serves as a permanent, go-to resource for honing web backend skills through hands-on practice with Rust.
