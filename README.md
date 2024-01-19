@@ -2,7 +2,7 @@
 
 This is [Shuttle](https://www.shuttle.rs/)'s collection of code challenges for learning backend development with Rust. The name is derived from [rustlings](https://github.com/rust-lang/rustlings), which is also a great resource for learning Rust basics.
 
-We've created a [channel on our Discord server](https://discord.gg/shuttle) where you can discuss challenges, provide feedback and talk to other problem-solvers.
+Looking to chat with other Shuttlings? Join the [Discord server](https://discord.gg/shuttle) to meet others, provide feedback and discuss the challenges.
 
 ## Why did we create this repo?
 
